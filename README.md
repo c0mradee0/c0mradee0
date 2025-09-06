@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing...;Authentication+Successful;C0mrade+Logged+In+Successfully;Loading+GitHub+Profile..." alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Hi, I’m c0mradee0</h1>
+<h1 align="center">👋 Hi, I’m c0mrade</h1>
 <h3 align="center"><b>Passionate cybersecurity Enthusiast with a focus on offensive security, red teaming, and OSINT.</b></h3>
 
 ---
